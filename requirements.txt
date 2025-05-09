@@ -1,0 +1,6 @@
+streamlit
+requests
+pydantic-ai
+langchain_community
+langchain_huggingface
+langchain_text_splitters
